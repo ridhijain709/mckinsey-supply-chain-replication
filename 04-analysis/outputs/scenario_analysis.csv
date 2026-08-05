@@ -1,0 +1,4 @@
+Scenario,Orders/Day,AOV (INR),Delivery Cost,Contribution/Order,Monthly CM (INR),Fixed Costs (INR),Monthly EBITDA,EBITDA Margin %,Breakeven?
+Conservative,180,420.0,42.0,19.7,106380.0,141944.44,-35564.44,-1.568,NO ❌
+Base,320,520.0,35.0,45.2,433920.0,121944.44,311975.56,6.25,YES ✅
+Optimistic,480,610.0,29.5,67.35,969840.0,111944.44,857895.56,9.767,YES ✅
